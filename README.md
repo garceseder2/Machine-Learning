@@ -1,9 +1,9 @@
 # Machine Learning
-## Model Testing
-### Linear Regression
-### Logistic Regression
-### Clustering
+##      Model Testing
+###         Linear Regression
+###         Logistic Regression
+###         Clustering
 
-#### K-mean
+####            K-mean
 
 ## Test Implementation
